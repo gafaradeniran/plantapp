@@ -1,16 +1,9 @@
 # plantapp
 
-A new Flutter project.
+A simple plant app ui design. it has three pages and each page has an inner page
 
-## Getting Started
+![plant1](https://user-images.githubusercontent.com/34741240/145210897-4bfeb2d3-6b94-4d26-b5d2-0d01ef575f2b.jpeg)
+![plant2](https://user-images.githubusercontent.com/34741240/145210907-ebab93c1-c533-417d-bc70-a5d128d53965.jpeg)
+![plant3](https://user-images.githubusercontent.com/34741240/145210912-77ac8aa5-3a3d-4796-ae2d-8bc524656731.jpeg)
+![plant4](https://user-images.githubusercontent.com/34741240/145210914-8c469159-c086-455d-a13b-a64475fed33d.jpeg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
